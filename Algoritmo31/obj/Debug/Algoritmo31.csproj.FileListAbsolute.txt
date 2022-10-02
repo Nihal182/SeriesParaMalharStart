@@ -1,0 +1,8 @@
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo31\bin\Debug\Algoritmo31.exe.config
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo31\bin\Debug\Algoritmo31.exe
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo31\bin\Debug\Algoritmo31.pdb
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo31\obj\Debug\Algoritmo31.csproj.AssemblyReference.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo31\obj\Debug\Algoritmo31.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo31\obj\Debug\Algoritmo31.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo31\obj\Debug\Algoritmo31.exe
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo31\obj\Debug\Algoritmo31.pdb

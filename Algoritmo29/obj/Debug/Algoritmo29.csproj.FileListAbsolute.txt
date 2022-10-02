@@ -1,0 +1,8 @@
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo29\bin\Debug\Algoritmo29.exe.config
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo29\bin\Debug\Algoritmo29.exe
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo29\bin\Debug\Algoritmo29.pdb
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo29\obj\Debug\Algoritmo29.csproj.AssemblyReference.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo29\obj\Debug\Algoritmo29.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo29\obj\Debug\Algoritmo29.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo29\obj\Debug\Algoritmo29.exe
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo29\obj\Debug\Algoritmo29.pdb

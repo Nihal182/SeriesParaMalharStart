@@ -1,0 +1,8 @@
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo33\bin\Debug\Algoritmo33.exe.config
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo33\bin\Debug\Algoritmo33.exe
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo33\bin\Debug\Algoritmo33.pdb
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo33\obj\Debug\Algoritmo33.csproj.AssemblyReference.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo33\obj\Debug\Algoritmo33.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo33\obj\Debug\Algoritmo33.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo33\obj\Debug\Algoritmo33.exe
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\Algoritmo33\obj\Debug\Algoritmo33.pdb

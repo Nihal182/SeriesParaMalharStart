@@ -1,0 +1,7 @@
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\bin\Debug\SerieParaMalharStart.Alongamento.exe.config
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\bin\Debug\SerieParaMalharStart.Alongamento.exe
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\bin\Debug\SerieParaMalharStart.Alongamento.pdb
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.csproj.AssemblyReference.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.exe
+C:\Users\Nayara\Desktop\Projetos\SerieParaMalharStart\SerieParaMalharStart.Alongamento\obj\Debug\SerieParaMalharStart.Alongamento.pdb
